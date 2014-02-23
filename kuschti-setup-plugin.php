@@ -43,7 +43,7 @@ function ctp_ku_reviews_init() {
             'show_ui' => true,
             'query_var' => true,
             'menu_position' => 8, /* this is what order you want it to appear in on the left hand side menu */
-            'menu_icon' => get_stylesheet_directory_uri() . '/library/images/custom-post-icon.png', /* the icon for the custom post type menu */
+            'menu_icon' => 'dashicons-star-filled',
             'rewrite'   => array( 'slug' => 'reviews', 'with_front' => false ), /* you can specify its url slug */
             'has_archive' => 'reviews', /* you can rename the slug here */
             'capability_type' => 'post',
