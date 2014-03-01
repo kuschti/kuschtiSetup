@@ -1,7 +1,12 @@
 <?php
 /*
-Plugin Name: Kuschti Setup
-Description: kuschti.ch spezifische Konfigurationen
+Plugin Name:       Kuschti Setup
+Plugin URI:        https://github.com/kuschti/kuschtiSetup
+Description:       kuschti.ch spezifische Konfigurationen
+Version:           0.1.1
+Author:            Pascal Kuster
+GitHub Plugin URI: https://github.com/kuschti/kuschtiSetup
+GitHub Branch:     master
 */
 
 /* Start Adding Functions Below this Line */
